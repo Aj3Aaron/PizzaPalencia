@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/pizza-palencia/static/css/main.0b69a6e9.css",
+    "main.css": "/pizza-palencia/static/css/main.28e7a11a.css",
     "main.js": "/pizza-palencia/static/js/main.5d5a4671.js",
     "static/js/787.ae547174.chunk.js": "/pizza-palencia/static/js/787.ae547174.chunk.js",
     "static/media/menu-pizza.png": "/pizza-palencia/static/media/menu-pizza.78bd4d6d0807823b6f5a.png",
     "static/media/fondoHeader.png": "/pizza-palencia/static/media/fondoHeader.e1da3ffaa002cb6ef786.png",
     "index.html": "/pizza-palencia/index.html",
-    "main.0b69a6e9.css.map": "/pizza-palencia/static/css/main.0b69a6e9.css.map",
+    "main.28e7a11a.css.map": "/pizza-palencia/static/css/main.28e7a11a.css.map",
     "main.5d5a4671.js.map": "/pizza-palencia/static/js/main.5d5a4671.js.map",
     "787.ae547174.chunk.js.map": "/pizza-palencia/static/js/787.ae547174.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b69a6e9.css",
+    "static/css/main.28e7a11a.css",
     "static/js/main.5d5a4671.js"
   ]
 }
