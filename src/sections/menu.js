@@ -6,8 +6,9 @@ function Menu(){
     return(
        
         <section id='menu' className="menu">
+			<span className='span-menu'></span>
             <div class="contenedor-menu">
-					<div class="contenedor-menu2">
+					{/* <div class="contenedor-menu2">
         				<h1 className='h1-menu'>Menú</h1>
 						<div className='div-row'>
 							<article className='article-menu'>
@@ -66,7 +67,7 @@ function Menu(){
 								</div>
 							</article>
 						</div>
-					</div>
+					</div> */}
 				</div>
         </section>
 

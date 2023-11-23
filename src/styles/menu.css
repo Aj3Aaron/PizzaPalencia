@@ -4,23 +4,34 @@ body{
 
 .menu{
     background-color: #141414;
-    background-image: url("../img/background-menu-phone.gif");
+    
     background-color: transparent;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
     background-position: 50% 50%;
-    padding: 5%;
+    /* padding: 42% 5% 100% 5%; */
 }
 
 .contenedor-menu{
     backdrop-filter: blur(0px);
-    background-color: rgb(0 0 0 / 50%);
-    padding: 10px;
+    /* background-color: rgb(0 0 0 / 50%); */
+    background-image: url("../img/menu-pizza.png");
+    padding: 42% 5% 100% 5%;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    background-position: 50% 50%;
+    /* padding: 10px; */
 }
 
 .contenedor-menu2, .contenedor-menu{
-    border: 2px solid #ffffff;
+    /* border: 2px solid #ffffff; */
+}
+
+.span-menu{
+    display: flex;
 }
 
 .div-row{

@@ -1,5 +1,10 @@
 #contacto{
     background-image: url('../img/fondo-contacto.jpg');
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    background-position: 50% 50%;
 }
 
 .h1-contacto{

@@ -143,7 +143,7 @@ function Nav() {
                 </div> */}
 
                 <div className='div-logo'>
-                    <img className='img-nav' src={require ('../img/logo.png')} />
+                    <img className='img-nav' src={require ('../img/palenciaPizza.jpg')} />
                 </div>
 
             </div>
