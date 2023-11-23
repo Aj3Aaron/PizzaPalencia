@@ -136,14 +136,14 @@
         display: none;
         flex-direction: column;
         position: absolute;
-        top: 105%;
+        top: 100%;
         left: 0;
         width: 70%;
         background-color: #141414;
         border-radius: 10px;    
         align-items: flex-start;
         justify-content: flex-start;
-        height: 2000px;
+        height: 100vh;
         border-top-left-radius: 0%;
 
       &.open {
