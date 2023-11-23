@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/PalenciaPizza/static/css/main.701fbb22.css",
-    "main.js": "/PalenciaPizza/static/js/main.28523684.js",
-    "static/js/787.eafd6aec.chunk.js": "/PalenciaPizza/static/js/787.eafd6aec.chunk.js",
+    "main.js": "/PalenciaPizza/static/js/main.8d7a1310.js",
+    "static/js/787.2c6eea5a.chunk.js": "/PalenciaPizza/static/js/787.2c6eea5a.chunk.js",
     "static/media/background-menu-phone.gif": "/PalenciaPizza/static/media/background-menu-phone.1d0c26b205828eaf647b.gif",
     "static/media/portada3.jpg": "/PalenciaPizza/static/media/portada3.ebe65db182ffb5735dd9.jpg",
     "static/media/logo.png": "/PalenciaPizza/static/media/logo.031494f94af9357d18a2.png",
     "index.html": "/PalenciaPizza/index.html",
     "main.701fbb22.css.map": "/PalenciaPizza/static/css/main.701fbb22.css.map",
-    "main.28523684.js.map": "/PalenciaPizza/static/js/main.28523684.js.map",
-    "787.eafd6aec.chunk.js.map": "/PalenciaPizza/static/js/787.eafd6aec.chunk.js.map"
+    "main.8d7a1310.js.map": "/PalenciaPizza/static/js/main.8d7a1310.js.map",
+    "787.2c6eea5a.chunk.js.map": "/PalenciaPizza/static/js/787.2c6eea5a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.701fbb22.css",
-    "static/js/main.28523684.js"
+    "static/js/main.8d7a1310.js"
   ]
 }
