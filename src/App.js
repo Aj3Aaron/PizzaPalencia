@@ -5,12 +5,7 @@ import PalenciaPizza from './pages/palenciaPizza';
 
 function App() {
   return (
-    <Router>
-      <Routes>
-        <Route path='/' element={<Main />} />
-        <Route path='/PalenciaPizza' element={<PalenciaPizza />} />
-      </Routes>
-    </Router>
+    <Main />
   );
 }
 
